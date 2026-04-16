@@ -5,7 +5,7 @@
   "update_check": true,
   "impatient": false,
   "enable_preload": true,
-  "debug_info": false,
+  "debug_info": true,
   "i_know_what_im_doing": false,
   "basic_success_checks": true
 }
